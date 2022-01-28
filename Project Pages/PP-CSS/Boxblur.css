@@ -1,0 +1,18 @@
+#projectheading {
+    padding: 1.5%;
+    font-family: Consolas, Arial, Helvetica, sans-serif;
+    color: white;
+    background-image: url('/Website/Assets/Binary Background.jpg');
+    border-radius: 6px;
+}
+
+#codeheading {
+	  padding: 1.5%;
+    font-family: Consolas, Arial, Helvetica, sans-serif;
+    color: white;
+    background: white;
+    border-radius: 6px;
+    background-color: rgb(84, 96, 109);
+    line-height: 25px;
+		margin-right: 92%;
+}
